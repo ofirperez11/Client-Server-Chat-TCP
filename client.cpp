@@ -1,6 +1,3 @@
-//Authors: Ofir Perez, Aviv Kenan 
-//IDs: 207781469, 207782863  
-
 #include <iostream>
 #include <string>
 #include <netinet/in.h>
